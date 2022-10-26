@@ -15,7 +15,7 @@ export default function Home() {
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
-      </main>
+    
     <body>
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
@@ -77,6 +77,11 @@ export default function Home() {
     }
 </script>
  </body>
+    
+    
+    
+      </main>
+    
       <Footer />
     </div>
   )
