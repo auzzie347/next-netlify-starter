@@ -16,6 +16,7 @@ export default function Home() {
           Get started by editing <code>pages/index.js</code>
         </p>
       </main>
+    <body>
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
@@ -75,7 +76,7 @@ export default function Home() {
         }
     }
 </script>
-
+ </body>
       <Footer />
     </div>
   )
